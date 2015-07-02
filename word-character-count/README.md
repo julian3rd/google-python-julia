@@ -1,0 +1,5 @@
+# Word and character counts
+
+One goal of mine is to make code and analyses portable across platforms and programs. The Google Python course is good for this, at it instructs how to perform basic tasks (file I/O, counts, low-level tokenization) using base Python. Julia is a good language to port this to, as not only it shares data structures, but also is designed to be fast; something that could be very useful when doing basic NLP-like tasks in batches.  So in order to familiarize myself with Julia and learn how to port things, I will implement the exercises in Julia.  
+
+The text used will from the Project Gutenberg version of the most famous work of 19th century novelist Amanda McKittrick Ros, *Irene Iddesleigh*. While the tokenizations is not completely ideal, it does accomplish the job reasonably well. The steps are in an IJulia notebook; the raw code is in a *.jl file.

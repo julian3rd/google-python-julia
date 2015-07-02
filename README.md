@@ -1,0 +1,6 @@
+# About
+As part of learning Python, I completed Google's Python course. This is an ongoing project where I lean to use the programming language Julia for more than just numeric and statistical analyses and use some of its general programming capabilities. The goal is to replicate the tasks and script structure (where/as much as possible) of the Google Python course in base Julia. The scripts and IJulia notebooks will cover each of the exercises in the course.
+
+ What is nice about Julia is that it combines the best parts of Python, MATLAB, and R. For current purposes, it shares several data structures with Python.  
+
+One goal of mine is to make code and analyses portable across platforms and programs. The Google Python course is good for this, at it instructs how to perform basic tasks (file I/O, counts, low-level tokenization) using base Python. Julia is a good language to port this to, as not only it shares data structures, but also is designed to be fast; something that could be very useful when dealing with large amounts of data.  So in order to familiarize myself with Julia and learn how to port things, I will implement the exercises in Julia. 
