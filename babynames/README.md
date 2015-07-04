@@ -1,0 +1,5 @@
+# Word and character counts
+
+One goal of mine is to make code and analyses portable across platforms and programs. The Google Python course is good for this, at it instructs how to perform basic tasks (file I/O, counts, low-level tokenization) using base Python. Julia is a good language to port this to, as not only it shares data structures, but also is designed to be fast; something that could be very useful when doing basic NLP-like tasks in batches.  So in order to familiarize myself with Julia and learn how to port things, I will implement the exercises in Julia.  
+
+The IJulia notebook and script `babynames.jl` implements the Baby Names Python Exercise in base Julia. The script takes a flag and depending on its presence or absence, it either writes to a file or prints the output to the command line.
